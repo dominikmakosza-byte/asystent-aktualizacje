@@ -1,6 +1,6 @@
 {
-  "version": "3.2.1",
-  "installerUrl": "https://github.com/dominikmakosza-byte/asystent-aktualizacje/releases/download/v3.2.1/Asystent_Lidera_Sojuszu_3.2.1_Setup.exe",
+  "version": "3.2.2",
+  "installerUrl": "https://github.com/dominikmakosza-byte/asystent-aktualizacje/releases/download/v3.2.2/Asystent_Lidera_Sojuszu_3.2.2_Setup.exe",
   "installerType": "inno",
-  "releaseNotes": "Test aktualizacji z wersji 3.2.0."
+  "releaseNotes": "Język niemiecki — pełne tłumaczenia (m.in. cofanie zmian). Poprawki i ulepszenia."
 }
