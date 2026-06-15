@@ -1,6 +1,6 @@
 {
   "version": "4.0.0",
-  "installerUrl": "https://github.com/dominikmakosza-byte/asystent-aktualizacje/releases/download/v3.2.2/Asystent_Lidera_Sojuszu_3.2.2_Setup.exe",
+  "installerUrl": "https://github.com/dominikmakosza-byte/asystent-aktualizacje/releases/download/v4.0.0/Asystent_Lidera_Sojuszu_4.0.0_Setup.exe",
   "installerType": "inno",
   "releaseNotes": "FIX"
 }
