@@ -2,5 +2,5 @@
   "version": "4.0.0",
   "installerUrl": "https://github.com/dominikmakosza-byte/asystent-aktualizacje/releases/download/v4.0.0/Asystent_Lidera_Sojuszu_4.0.0_Setup.exe",
   "installerType": "inno",
-  "releaseNotes": "FIX"
+  "releaseNotes": "Wersja 4.0 — modale systemowe, profile bez kopiowania danych admina, podział rezerwa/drużyna przy budynkach, poprawki mapy pustynnej i pociągu."
 }
