@@ -1,12 +1,12 @@
 {
-  "version": "4.0.2",
-  "installerUrl": "https://github.com/dominikmakosza-byte/asystent-aktualizacje/releases/download/v4.0.2/Asystent_Lidera_Sojuszu_4.0.2_Setup.exe",
+  "version": "4.0.3",
+  "installerUrl": "https://github.com/dominikmakosza-byte/asystent-aktualizacje/releases/download/v4.0.3/Asystent_Lidera_Sojuszu_4.0.3_Setup.exe",
   "installerType": "inno",
   "releaseNotes": {
-    "pl": "Wersja 4.0.2 — poprawki stabilności i mapy:<br>• Dodano język francuski<br>• Przeciąganie bazy na budynek — tylko pytanie o przypisanie, bez modala budynku po puszczeniu<br>• Uzupełniono informator mapy sojuszu i Pustynnej burzy<br>• Nowa opcja „Pokaż na mapie” w panelu statystyk (sojusz + pustynna burza)<br>• Pinezka lokalizacji w grze na mapie sojuszu<br>• Poprawki przypisania graczy do budynków, rezerwy i stref drużyn",
-    "en": "Version 4.0.2 — stability and map fixes:<br>• Added French language<br>• Dragging a base onto a building — assignment prompt only, no building modal after release<br>• Updated alliance map and Desert Storm informer<br>• New \"Show on map\" option in the stats panel (alliance + desert storm)<br>• In-game location pin on the alliance map<br>• Fixes for building assignments, reserve and team zones",
-    "de": "Version 4.0.2 — Stabilitäts- und Kartenverbesserungen:<br>• Französische Sprache hinzugefügt<br>• Basis auf Gebäude ziehen — nur Zuweisungsfrage, kein Gebäude-Modal nach dem Loslassen<br>• Informator für Allianzkarte und Wüstensturm ergänzt<br>• Neue Option „Auf Karte anzeigen“ im Statistikpanel (Allianz + Wüstensturm)<br>• Spielstandort-Pin auf der Allianzkarte<br>• Verbesserungen bei Gebäudezuweisungen, Reserve und Teamzonen",
-    "uk": "Версія 4.0.2 — виправлення стабільності та карти:<br>• Додано французьку мову<br>• Перетягування бази на будівлю — лише запитання про призначення, без модала будівлі після відпускання<br>• Оновлено інформатор карти альянсу та Desert Storm<br>• Нова опція «Показати на карті» в панелі статистики (альянс + пустельний шторм)<br>• Позначка локації в грі на карті альянсу<br>• Виправлення призначень до будівель, резерву та зон команд",
-    "fr": "Version 4.0.2 — corrections de stabilité et de carte :<br>• Ajout de la langue française<br>• Glisser une base sur un bâtiment — seule la confirmation d'affectation, sans fenêtre du bâtiment après relâchement<br>• Informateur de la carte d'alliance et Tempête du désert complété<br>• Nouvelle option « Afficher sur la carte » dans le panneau de statistiques (alliance + tempête du désert)<br>• Épingle de localisation en jeu sur la carte d'alliance<br>• Corrections des affectations aux bâtiments, réserve et zones d'équipe"
+    "pl": "Wersja 4.0.3 — poprawki aktualizacji i stabilności:<br>• Niezawodne pobieranie i instalacja aktualizacji<br>• Ulepszone okno postępu z odliczaniem do restartu<br>• Poprawione wykrywanie nowej wersji programu",
+    "en": "Version 4.0.3 — update and stability fixes:<br>• Reliable update download and installation<br>• Improved progress window with restart countdown<br>• Fixed detection of new program versions",
+    "de": "Version 4.0.3 — Update- und Stabilitätsverbesserungen:<br>• Zuverlässiger Download und Installation von Updates<br>• Verbessertes Fortschrittsfenster mit Neustart-Countdown<br>• Verbesserte Erkennung neuer Programmversionen",
+    "uk": "Версія 4.0.3 — виправлення оновлення та стабільності:<br>• Надійне завантаження та встановлення оновлень<br>• Покращене вікно прогресу з відліком до перезапуску<br>• Виправлено виявлення нової версії програми",
+    "fr": "Version 4.0.3 — corrections de mise à jour et de stabilité :<br>• Téléchargement et installation fiables des mises à jour<br>• Fenêtre de progression améliorée avec compte à rebours avant redémarrage<br>• Détection corrigée des nouvelles versions du programme"
   }
 }
